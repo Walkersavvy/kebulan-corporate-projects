@@ -1,0 +1,59 @@
+📌 Project Management Strategy – Kebulan Grid
+
+💡 Methodology Overview
+This project management approach integrates **Agile methodologies** with Kebulan Grid’s cultural values and operational rigor. The goal is to foster flexibility, transparency, and continuous learning across corporate pillars (Legal, Branding, Ops , Design).
+
+Core Principles
+- **Iteration Over Perfection**: Deliver in sprints, refine through feedback.
+- **Cross-Pillar Visibility**: Maintain shared access to documentation, dashboards, and blockers.
+- **Cultural Alignment**: Ensure every process honors the Grid’s spirit of innovation, heritage, and rapid adaptability.
+
+---
+
+## 🛠️ Agile Implementation Across Teams
+
+| Agile Practice     | Application at Kebulan Grid                         |
+|--------------------|-----------------------------------------------------|
+| Sprint Planning    | Weekly task lists in GitHub Issues / Trello board  |
+| Standups           | Midweek async check-ins via Google Meet                  |
+| Retrospectives     | Monthly review documented in PM dashboard          |
+| Backlog Grooming   | Biweekly prioritization of repo-linked task items |
+| Kanban Boards      | GitHub Projects used for visual task tracking      |
+| Continuous Delivery| Versioning of docs and workflows via GitHub commits|
+
+---
+
+📁 GitHub + Agile Workflow
+
+1. **Issue Templates** guide contributors to log tasks and blockers.
+2. **Projects Boards** reflect sprint goals, current priorities, and task ownership.
+3. **Markdown Documentation** captures onboarding, contracts, and branded operations.
+4. **Commit History** serves as timeline and audit trail of agile decisions and updates.
+
+---
+
+## 🌍 Cultural Layer
+
+Agile practices are framed by the Grid’s commitment to:
+- **Rapid learning**: "What we don't know, we learn."
+- **Accountability**: Mistakes are corrected quickly to build trust.
+- **Intentional design**: Processes reflect diasporic innovation and creative systems.
+
+> *Every sprint embodies a cultural and operational learning loop.*
+
+
+## 🧭 Role of the Project Manager
+
+- Facilitate agile sprints and retrospectives.
+- Document workflows and refine onboarding systems.
+- Ensure GitHub remains a living archive of startup evolution.
+- Support cross-team communication and tool adoption.
+
+---
+
+## 🚀 Forward Plan
+
+- Expand agile vocabulary in onboarding templates.
+- Automate task creation via GitHub Issues integrations.
+- Link GitHub deliverables with Asana and Google Calendar milestones.
+

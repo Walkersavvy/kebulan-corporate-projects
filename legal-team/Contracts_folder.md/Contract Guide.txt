@@ -1,0 +1,22 @@
+ 📝 Contract Guide – Legal Team
+
+This file outlines the format and core clauses commonly used in Kebulan Grid contracts, including NDAs, service agreements, and partnership MOUs.
+
+## Standard Sections
+- Parties Involved
+- Scope of Work
+- Payment Terms
+- Confidentiality & Data Handling
+- Termination & Dispute Resolution
+- Intellectual Property Ownership
+- Signatures & Dates
+
+> *All templates should align with Kebulan Grid’s cultural and legal values. Refer to UKVI policy notes or internal audit logs where applicable.*
+
+## Example Clause: Confidentiality
+> “Both parties agree not to disclose any proprietary or sensitive information related to project execution, design materials, or studio workflows without prior written consent.”
+
+## Notes
+- Drafts should be stored in Google Drive (shared legal folder).
+- Any new versions must be approved by the executive or legal lead.
+

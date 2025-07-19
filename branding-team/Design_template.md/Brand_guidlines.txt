@@ -1,0 +1,18 @@
+# 🎨 Brand Guidelines – Branding Team
+
+Outlines the visual and cultural identity standards for Kebulan Grid across print, digital, and public assets.
+
+## Core Elements
+1- Logo usage (primary, secondary, favicon)
+2- Color palette (HEX codes + usage zones)
+3- Typography (header, body, mobile style)
+4- Imagery styles (photographic, iconography, archival references)
+
+## Cultural Notes
+- Grid branding centers diasporic innovation and creative technology.
+- Visuals must be culturally respectful, scalable, and adaptable.
+
+## Asset Repository
+- Stored on Google Drive in `/Design/Assets/LogoSuite`
+- Version control via GitHub + design critique logs
+

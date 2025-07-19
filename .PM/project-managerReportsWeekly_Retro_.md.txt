@@ -1,0 +1,22 @@
+🔁 Sprint Retrospective – Week 
+
+## What Went Well??
+- [Team highlights, e.g. "Ops team completed onboarding for 2 new assistants."
+- [Legal reviewed all NDAs within target timeline.
+
+## What Could Be Improved
+- [Delays in syncing branding assets to GitHub.
+- [Need better alignment between Slack updates and sprint board.
+
+## Action Items
+- Assign GitHub Issues to remaining outreach tasks
+- Update CONTRIBUTING.md with new team protocols
+- Set recurring Tuesday check-ins for branding/legal ops bridge
+
+## Reflections
+> “Branding teams collaborative spirit”
+
+## Next Sprint Focus
+- GitHub integration
+- External compliance review prep
+

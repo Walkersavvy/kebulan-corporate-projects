@@ -1,0 +1,26 @@
+ Kebulan Grid Sprint Board – Weekly
+
+Sprint Theme / Weekley Catchups 
+Cultural Compliance & Branding Consolidation
+
+ Columns
+- **To Do**
+  - Finalize NDAs for Studio Collaborators
+  - Collect feedback on Logo Iteration Round 2
+  - Prep onboarding docs for Ops assistant
+
+- **In Progress**
+  - Legal audit of service contracts
+  - Asana page redesign for branding folder
+
+- **Done**
+  - Induction call with new legal consultant
+  - Updated template for ECS request communications
+
+## Goals
+- Deliver 3 contract documents to legal folder
+- Launch V2 branding mockups for team review
+- Sync contributor access across all project boards -Asana-
+
+## Notes
+Sprint runs Wednesdays 730pm BST. Retrospective scheduled for Same day after Gen meetings.

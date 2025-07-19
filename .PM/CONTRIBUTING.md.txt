@@ -1,0 +1,26 @@
+ 🤝 Contributor Guidelines – Kebulan Grid Repos
+
+Welcome! We use GitHub to maintain visibility, version control, and clarity across our legal, operations, and branding work. 
+Here's how to contribute:
+
+👥 Who Can Contribute
+- Legal, Ops, and Branding team members
+- Studio collaborators with assigned access
+- Project managers or admin reviewers
+
+ 🛠️ Contribution Steps
+1. Fork or clone the repo to your local machine.
+2. Use branch naming conventions: `ops/new-induction-doc`, `legal/update-contract`, `branding/logo-v2`.
+3. Submit clear commit messages: `Add Week 3 sprint notes` or `Update ECS communication template`.
+4. Open a pull request with a short summary and relevant tag (e.g. `#onboarding`, `#branding`, `#compliance`).
+
+📋 Task Logging
+- Use GitHub Issues to submit task requests or blockers.
+- Reference sprint themes in your updates where possible.
+
+ 🔄 Review Cadence
+- PM reviews pull requests every Friday.
+- Questions or requests? Drop a note On whatsapp Slack #studio-github or open a GitHub Discussion.
+
+> All contributions should align with Kebulan Grid’s ethos of collaboration, agility, and corporate clarity.
+

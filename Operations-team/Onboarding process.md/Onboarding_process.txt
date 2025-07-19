@@ -1,0 +1,20 @@
+# ✅ Onboarding Process – Operations Team
+
+This file documents the onboarding framework for new hires and collaborators joining Kebulan Grid.
+
+## Phases
+1. Welcome & Vision Alignment
+2. Tools Setup (Google Workspace, Slack, Notion)
+3. Role Briefing & First Tasks
+4. Trial Review & Culture Feedback
+
+## Essential Actions
+- Share Kebulan Spirit document & brand overview
+- Set up accounts with task board access
+- Assign a buddy or support contact for week 1
+
+## Templates Included
+- Induction checklist
+- Weekly feedback form
+- Account credentials sheet (shared securely)
+
